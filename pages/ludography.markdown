@@ -6,7 +6,7 @@ permalink: /ludography/
 
 It's pronounced _"loo-DOG-raff-ee"_. Like discography but instead of disc (as in music) I make games (which we greekify as _ludo_ for some reason). It's a terrible word. I think most people say "loo-doe-graff-ee" but I like mine better.
 
-This page lists (almost) all the games I've ever made and posted. You can see my games in a nicer view, sorted best to worst, on my [itch page](notexplosive.itch.io). You might find that some of these games aren't listed on my itch page, that's because it's secret NotExplosive lore just for readers of this blog. There are some games that are more secret still, unlisted from itch, unlisted here, but still exist. That's non-canonical NotExplosive lore, (they're pretty boring and pretty bad, I promise you're not missing much).
+This page lists (almost) all the games I've ever made and posted. You can see my games in a nicer view, sorted best to worst, on my [itch page](http://notexplosive.itch.io). You might find that some of these games aren't listed on my itch page, that's because it's secret NotExplosive lore just for readers of this blog. There are some games that are more secret still, unlisted from itch, unlisted here, but still exist. That's non-canonical NotExplosive lore, (they're pretty boring and pretty bad, I promise you're not missing much).
 
 Some of these descriptions will probably balloon into their own blog posts, but for now I've written a few paragraph remarks on each. These range from technical implementation details to fun anecdotes about the development.
 
