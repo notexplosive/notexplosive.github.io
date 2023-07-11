@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cool People Zone
+title: ":sunglasses: Cool People Zone"
 permalink: /cool-people/
 ---
 

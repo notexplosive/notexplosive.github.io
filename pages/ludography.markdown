@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ludography
+title: ":video_game: Ludography"
 permalink: /ludography/
 ---
 

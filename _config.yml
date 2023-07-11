@@ -31,12 +31,13 @@ author:
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 markdown: kramdown
 
 minima:
   skin: dark
-  
+
 show_excerpts: true
 
 # Exclude from processing.
