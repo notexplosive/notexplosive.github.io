@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+![image](/assets/images/winking-jack-small.png)

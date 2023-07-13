@@ -4,13 +4,13 @@ title: ":video_game: Ludography"
 permalink: /ludography/
 ---
 
-It's pronounced _"loo-DOG-raff-ee"_. Like discography but instead of disc (as in music) I make games (which we greekify as _ludo_ for some reason). It's a terrible word. I think most people say "loo-doe-graff-ee" but I like mine better.
+It's pronounced _"loo-DOG-raff-ee"_. Like discography but instead of disc (as in music) I make games (which we latinize as _lud_ as in _ludum_, for some reason). It's a terrible word. I think most people say "loo-doe-graff-ee" but I like mine better.
 
 This page lists (almost) all the games I've ever made and posted. You can see my games in a nicer view, sorted best to worst, on my [itch page](http://notexplosive.itch.io). You might find that some of these games aren't listed on my itch page, that's because it's secret NotExplosive lore just for readers of this blog. There are some games that are more secret still, unlisted from itch, unlisted here, but still exist. That's non-canonical NotExplosive lore, (they're pretty boring and pretty bad, I promise you're not missing much).
 
-Some of these descriptions will probably balloon into their own blog posts, but for now I've written a few paragraph remarks on each. These range from technical implementation details to fun anecdotes about the development.
+I've written a few paragraph remarks on each. These range from technical implementation details to fun anecdotes about their development. None of them are descriptions of gameplay. If you want that, you'll just have to play them.
 
-The games are listed in reverse chronological order, but I often reference games earlier than the one I'm currently talking about. If you're planning on reading this whole page, you might have a better experience reading it from bottom to top.
+The games are listed in reverse chronological order, but my remarks often reference games earlier in the timeline. If you're planning on reading this whole page, you might have a better experience reading it from bottom to top.
 
 * TOC
 {:toc}
@@ -24,11 +24,13 @@ The games are listed in reverse chronological order, but I often reference games
 [{{ linkText }}](https://notexplosive.itch.io/pest-control)
 > Made in 48 hours for GMTK Game Jam 2023
 
-Collaborated with [Ryan Yoshikami][quarkimo] and 2 artists we met through the GMTK Team Finder app.
+Composed by [Ryan Yoshikami][quarkimo] and illustrated by 2 artists we met through the GMTK Team Finder app.
 
 This game was made the day before I started this blog! I think finishing this game finally inspired me to actually put something together to collate my thoughts on my games. I have some interesting things to share about this game and I think a blog post would be a good format to share them. 
 
 So that prompted me to start writing a blog, which prompted me to fill out a "who am I" page, which prompted me to write up my ludography with some authors remarks and, an hour or so of figuring out Jekyll and GitHub Pages later, here we are!
+
+ I dedicated an entire post to [retrospecting on Pest Control]({{ '/2023/07/10/pest-control-retrospective' | relative_url }}).
 
 ## Super Pet the Cat
 [{{ linkText }}](https://notexplosive.itch.io/pet-the-cat)
@@ -44,7 +46,7 @@ The jam was 10 days long, but I was out of town for the first 5, so I franticall
 
 I wanted to make "Wheel of Fortune but better." I think Wheel of Fortune works well as a game show (with contestants playing for real money), but kinda crappy as a party game to play with friends. It seems that the mobile and console ports of the game are trying to emulate the game show's exact format.
 
-I wanted to make a competitive hangman game that has the spirit of Wheel of Fortune, but none of its baggage. I was inspired particularly from watching Game Grumps play Wheel of Fortune. I even made a Game Grumps-themed puzzle set for the game with the intent to send it to them. But I never did.
+I wanted to make a competitive hangman game that has the spirit of Wheel of Fortune, but none of its baggage. I was inspired particularly from watching [Game Grumps](https://www.youtube.com/watch?v=K5fkIBwuVUE) play Wheel of Fortune. I even made a Game Grumps-themed puzzle set for the game with the intent to send it to them. But I never did.
 
 This game also uses the same sound effects and music as [Seven Pips](#seven-pips), with Ryan's permission.
 
@@ -72,14 +74,14 @@ My gamedev friend group got together and created an imaginary "franchise," a cas
 
 Given this premise, we all split off for a week and each [made games](https://itch.io/c/2569111/beep-n-zap) that were part of the "Beep 'n' Zap extended universe."
 
-This was the third jam I had done with this group. The jam we had done before this one resulted in [lectvs][lectvs] creating [Auto Balls](https://lectvs.itch.io/auto-balls)). It's not a requirement to publish the games from these jams, so not all the Beep 'n' Zap games made it to itch, just as my previous 2 jam submissions didn't either.
+This was the third jam I had done with this group. It's not a requirement to publish the games from these jams, so not all the Beep 'n' Zap games made it to itch, just as my previous 2 jam submissions didn't either.
 
 
 ## Support Class Simulator
 [{{ linkText }}](https://notexplosive.itch.io/ld50)
 > Made in 72 hours in April 2022 for Ludum Dare 50
 
-A game based on being a healer in World of Warcraft. I'd been sitting on the idea for this game for a long time and the teme "Delay the inevitable" reminded me of it.
+A game based on being a healer in World of Warcraft. I'd been sitting on the idea for this game for a long time and the theme "Delay the inevitable" seemed like a good fit.
 
 ## Duel-ity
 [{{ linkText }}](https://notexplosive.itch.io/duelity)
@@ -87,7 +89,7 @@ A game based on being a healer in World of Warcraft. I'd been sitting on the ide
 
 This was the first game I made with my friend [andrfw][andrfw].
 
-Prior to making this game he had pitched to me a game where you play as the knight from chess in a world consisting of other gameboard pieces (meeples, monopoly tokens, and of course other chess pieces). It was meant to be a grid-based puzzle game where you can only move in "L" shapes (aka legal knight moves). We never even got to the prototype phase with this project, but the spirit of this idea made it into Duel-ity!
+Prior to making this game he had pitched to me a game where you play as the knight from chess in a world consisting of other game board pieces (meeples, monopoly tokens, and of course other chess pieces). It was meant to be a grid-based puzzle game where you can only move in "L" shapes (aka legal knight moves). We never even got to the prototype phase with this project, but the spirit of this idea made it into Duel-ity!
 
 We both agreed after making Duel-ity that a whole game where you play as Bennigan would not be very fun.
 
@@ -144,7 +146,7 @@ My original title for this game was "Dario teaches typing."
 
 My first narrative focused game since [Puppertrator](#puppertrator). I'd never posted any non-comedic writing before making this game, so it was a huge step outside my comfort zone. [Alpha Beta Gamer](https://www.alphabetagamer.com/qwerty-game-jam-build-download/) wrote a very nice article about it. It's always surprising to see stuff like this, like not only did another human I've never met play my game, they then took the time to write about the game and their experience with it.
 
-This game was made for Triple TriJam, which meant that I had 9 hours (cumulatively) to make it, and at each 3 hour benchmark I had to post what I had. This meant that I had to sketch out the game in 3 hours, polish it for 3 hours, and then polish it again. These hours did not have to be contiguous, and I didn't count playtesting with other people as part of the time.
+This game was made for Triple TriJam, which meant that I had 9 hours to make it, and at each 3 hour benchmark I had to post what I had. This meant that I had to sketch out the game in 3 hours, polish it for 3 hours, and then polish it again. These hours did not have to be contiguous, and I didn't count playtesting with other people as part of the time.
 
 In between 2 milestones [Jose Pacio][jose] did a playtest for me over screen-share and gave me some feedback. He helped me figure out that I was missing a third act.
 
@@ -170,7 +172,7 @@ We also won at our local site, which was pretty cool.
 [{{ linkText }}](https://notexplosive.itch.io/gale2)
 > Released in January 2020
 
-[Nina Freeman][nina] liked the first [Gale](#gale-first-draft) quite a lot, she encouraged me to take it further and make it a more fleshed out game. I had gotten this kind of feedback before on my games, but coming from Nina Freeman, a _real_ game designer, it meant a lot to me. When I showed her _Second Draft_ she had suggested that I should submit it to IGF and Indiecade. I did, but was rejected from both. The day I got the second rejection letter, I posted the game in its current state to itch.
+[Nina Freeman][nina] liked the first [Gale](#gale-first-draft) and encouraged me to take it further and make it a more fleshed out game. I had gotten this kind of feedback before on my games, but coming from Nina Freeman, a "real" game designer, it meant a lot to me. When I showed her _Second Draft_ she had suggested that I should submit it to IGF and Indiecade. I did, but was rejected from both. The day I got the second rejection letter, I posted the game in its current state to itch.
 
 In a way I'm glad it was rejected. The hardest thing with non-game jam games is actually saying "OK, this is done, time to release it." Second Draft was playable and "finished" for weeks, if not months. But I didn't want to release it because there's always more I could do.
 
@@ -187,11 +189,13 @@ This game later inspired one of the core mechanics of [Duel-ity](#duel-ity), it'
 
 I had enlisted an artist, [Josh Squires](https://squires.itch.io/) partway through the jam. At the time I was using placeholder circles and was doing this cool interpolating trick. It looked pretty good but I figured with an actual artist we could replace it with sprites. Josh said something to the effect of "I think you're good." He still helped me pick out colors so I still gave him an art credit.
 
-This game did surprisingly well in the jam, making top 100 overall. I didn't have high expectations for it, in fact, I didn't even really spend the full 72 hours on it. I think the weird art style along with the tight level design resonated with people.
+This game did surprisingly well in the jam, making top 100 overall. I didn't have high expectations for it, in fact, I didn't even spend the full 72 hours on it. I think the weird art style along with the tight level design resonated with people.
 
 ## Welcome to the 10 Minute Power Hour
 [{{ linkText }}](https://notexplosive.itch.io/10mph)
 > Made in 7 days in July 2019 for the Game Grumps Game Jam
+
+I'll have more to say about this in a later blog post.
 
 ## Dragon Bossfight
 [{{ linkText }}](https://notexplosive.itch.io/dragon-bossfight)
@@ -203,9 +207,10 @@ A pretty low effort submission, I had half an idea and a quarter the energy to m
 [{{ linkText }}](https://notexplosive.itch.io/big-ambitions)
 > Made (in 2 hours) for WWU Game Jam Spring '19, May 2019
 
-This was after I graduated, where I was more spotty about participating in WWUJAM. I wasn't planning on participating in this jam, but 2 hours before submission time I had a fun idea for a joke game that would only really "make sense" in the context of a school game jam.
+I wasn't planning on participating in this jam, but 2 hours before submission time I had a fun idea for a joke game that would only really "make sense" in the context of a school game jam.
 
 Let me set the scene:
+
 At the end of the jam, all participants gather in a classroom on campus and are each given 5 minutes to present their game.
 
 I was remote, only communicating with the jam organizers through Discord. In fact, I was living 2 hours away from the school at the time, so my options were literally attend the jam presentations or submit something.
@@ -230,11 +235,20 @@ I made _Gale_ and [Lens](#lens) around the same time. Gale was initially inspire
 
 # 2018
 
+
+## JUMP
+[{{ linkText }}](https://notexplosive.itch.io/march-3-meditation)
+> Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
+
+I was invited to participate in Rami Ismail's [Meditations](https://meditations.games/). The game was supposed to be made in about 6 hours and would be "aired" on a date of my choosing, as long as the date wasn't already taken. Making a game in 6 hours is a really tight scope, I would want to make something really simple but still feels like a game, it made me think of [{{ jumpRopeTitle }}](#{{ jumpRopeTitle | slugify }}), a game that I made solely because of its tiny scope.
+
+So I checked itch.io to see when I made _Jump Rope Game_ and I found out that it was released on March 3rd. I then checked the sign up sheet for Meditations and found that March 3rd was still available. It was a match made in heaven. So I spent 6 hours remaking a game that took me 20 minutes to make.
+
 ## Lens
 [{{ linkText }}](https://notexplosive.itch.io/lens)
 > Made in November 2018 for GitHub Game Off
 
-I sometimes imagine a sequel to this game and (in my head) it's the best game I've ever made. That immense pressure makes it impossible to ever actually make it. I plan on making a longer blog post about this topic.
+I sometimes imagine a sequel to this game and (in my head) it's the best game I've ever made. That immense pressure makes it impossible to ever actually make it. I have attempted to make _Lens 2_ at least 4 times (depends on what counts as an "attempt"). I plan on making a longer blog post about this topic.
 
 ## Castle Rapsalot
 [{{ linkText }}](https://notexplosive.itch.io/castle-raps)
@@ -246,19 +260,12 @@ Mechanically this is a spiritual successor to [Speed Date Shuffle](#speed-date-s
 [{{ linkTextWeb }}](https://notexplosive.itch.io/winejam)
 > Made in 7 days in July of 2018 (intermittently) for Wine Jam
 
-I made this game during the week I graduated college. I remember putting the finishing touches (at least, finishing-enough touches) on this game in at my parents house with a just barely-unpacked desktop computer, sitting on the floor.
+I made this game during the week I graduated college. I remember putting the finishing touches (at least, finishing-enough touches) on this game at my parents house with a just barely-unpacked desktop computer, sitting on the floor.
 
 The game still feels incomplete. It has a complex scoring system, but there's nothing to do with it. There isn't a lose condition, nor win condition, nor tutorial. It also has menu buttons that aren't hooked up to anything. Watching [Nina][nina] play it on stream made it apparent that this game badly needed a tutorial.
 
-Also: I didn't realize it at the time, but this was also the last game I made in [Superpowers](https://superpowers-html5.com).
+Also: I didn't realize it at the time, but this was the last game I made in [Superpowers](https://superpowers-html5.com).
 
-## JUMP
-[{{ linkText }}](https://notexplosive.itch.io/march-3-meditation)
-> Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
-
-I was invited to participate in Rami Ismail's [Meditations](https://meditations.games/). The game was supposed to be made in about 6 hours and would be "aired" on a date of my choosing (as long as the date wasn't already taken). Making a game in 6 hours is a really tight scope, I would want to make something really simple but still feels like a game, it made me think of [{{ jumpRopeTitle }}](#{{ jumpRopeTitle | slugify }}), a game that I made solely because of its tiny scope.
-
-So I checked itch.io to see when I made _Jump Rope Game_ and I found out that it was released on March 3rd. I then checked the sign up sheet for Meditations and found that March 3rd was still open. It was a match made in heaven. So I spent 6 hours remaking a game that took me 20 minutes to make.
 
 # 2017
 
@@ -266,7 +273,7 @@ So I checked itch.io to see when I made _Jump Rope Game_ and I found out that it
 [{{ linkTextWeb }}](https://notexplosive.itch.io/speed-date-shuffle)
 > Made in 72 hours in December 2017 for Ludum Dare 40
 
-A spiritual sequel to [Puppertrator](#puppertrator). Made with the same team [Medamaudee][medamaudee] and Cadillac Loops.
+A spiritual sequel to [Puppertrator](#puppertrator). Made with the same team [Kristin Mays][kristin] and Cadillac Loops. Where Puppertrator had pretty generic point-and-click gameplay, Speed Date Shuffle tries to do something different.
 
 # 2016
 
@@ -274,17 +281,17 @@ A spiritual sequel to [Puppertrator](#puppertrator). Made with the same team [Me
 [{{ linkTextWeb }}](https://notexplosive.itch.io/puppertrator)
 > Made in 72 hours in December 2016 for Ludum Dare 37
 
-Another game with [Medamaudee][medamaudee]'s incredible art. This was also the first game I ever made that didn't feature pixel art and it's so much better for it!
+Another game with [Kristin Mays][kristin]'s incredible art. This was also the first game I ever made that didn't feature pixel art and it's so much better for it!
 
-When we were first brainstorming the game and the narrative, Medamaudee asked me "are they all humans?" 
+When we were first brainstorming the game and the narrative, Kristin asked me "are they all humans?" 
 
-I was a little taken aback by this question, I offhandedly said "Yeah, they're all humans." But then I made the best decision I could have possibly made and doubled back, "what do you mean by that? Tell me more?"
+I was a little taken aback by this question, I offhandedly said "Yeah, they're all humans." But then doubled back, "what do you mean by that?"
 
 Their reply, "What if they were all, like... Pugs?" 
 
-I can't take any credit for Medamaudee's brilliance, but this was a formative lesson for me to never shoot down an idea too early.
+I can't take any credit for Kristin's brilliance, but this was a formative lesson for me to never shoot down an idea too early.
 
-During the jam I was posting gifs to twitter showing off our game (mostly Medamaudee's cool art). Cadillac Loops, who was a stranger to me at the time, commented on a tweet asking if I needed a composer. We hadn't given any consideration to music or sound so of course I accepted. This was my first time working with a composer and I was blown away with his work. 
+During the jam I was posting gifs to twitter showing off our game (mostly Kristin's cool art). Cadillac Loops, who was a stranger to me at the time, commented on a tweet asking if I needed a composer. We hadn't given any consideration to music or sound so of course I accepted. This was my first time working with a composer and I was blown away with his work. 
 
 If [Bug Samurai](#bug-samurai) is my first "fun" game, Puppertrator is my first "real" game. One that I could confidently share with IRL friends and say "hey, check out this game I made, you might like it."
 
@@ -298,15 +305,15 @@ On the first night of the jam I had a working prototype of the overall gameplay 
 
 I showed this game to a friend years later and the first thing she said just looking at it was "woah, that's fun!" I've never had such a genuine reaction of excitement to any game I've made prior to this one. That's why I call it my first "fun" game!
 
-This was also the game that (very indirectly) introduced me to Seattle Indies, a Seattle indie game developer nonprofit.
+This was also the game that (very indirectly) introduced me to [Seattle Indies](https://www.seattleindies.org/).
 
 ## {{ jumpRopeTitle }}
 [{{ linkTextWeb }}](https://notexplosive.itch.io/finished-game)
 > Made in 20 minutes in March 2016
 
-This was the first game I "finished" outside of a game jam. It was made to prove exactly that. I asked myself "what is the simplest possible game you could make and still call it a game. I came up with the concept for a one-button jumprope game, reused some assets from another unfinished project, and got to work. I remember it was 9:00 on a school night, close to when I should be going to bed. I told myself "that's fine, this will only take about 20 minutes" and I held myself to that.
+This was the first game I finished outside of a game jam. It was made to prove exactly that. I asked myself "what is the simplest possible game you could make and still call it a game. I came up with the concept for a one-button jump rope game, reused some assets from another unfinished project, and got to work. I remember it was 9:00 on a school night, close to when I should be going to bed. I told myself "that's fine, this will only take about 20 minutes" and I held myself to that.
 
-I recommend this exercize! I think it's a fun thought experiment to define how small a game can be while still being a game. Can you go smaller than this? I don't know, but if you find a game smaller than _{{ jumpRopeTitle }}_ I'd love to see it!
+I recommend this exercise! I think it's a fun thought experiment to define how small a game can be while still being a game. Can you go smaller than this? I don't know, but if you find a game smaller than _{{ jumpRopeTitle }}_ I'd love to see it!
 
 If you wanna see "part 2" of this jump rope saga, check out [JUMP](#jump).
 
@@ -316,13 +323,13 @@ If you wanna see "part 2" of this jump rope saga, check out [JUMP](#jump).
 [{{ linkTextWeb }}](https://notexplosive.itch.io/ld34)
 > Made in 72 hours in 2015 for Ludum Dare 34
 
-The first (canonical) NotExplosive game, with art by [Medamaudee][medamaudee]. 
+The first (canonical) NotExplosive game, with art by [Kristin Mays][kristin]. 
 
 I had made games before this for various jams, but none of them are good enough to keep visible on my website. Some of them are completely lost to time. Some of them are on itch, but marked as hidden (hidden NotExplosive lore!)
 
 It was also a game that gave me a big revelation about video game AI: If you want AI that behaves like a player, it should have the same controls that a player would have. In the case of KoBK, movement is restricted to two inputs and you can't steer and control your velocity at the same time. The AI controlled krill, have the same two-input controls the player does, but they have code to determine which "buttons" they should be pressing.
 
-The twist is: the ai controlled krill is completely random. Of the two buttons they can press, they choose each button randomly on a randomized cooldown. This leads to movement that feels organic and deliberate and it took like 6 lines of code to write.
+The twist is: the ai controlled krill is completely random. Of the two buttons they can press, they choose to press left, right, or both randomly on a cooldown. This leads to movement that feels organic and it took like 6 lines of code to write. Sometimes you'll see a krill perfectly steer itself into a piece of food. That is by complete accident.
 
 I used this insight for the AI in [Pest Control](#pest-control) 8 years later.
 
@@ -333,6 +340,6 @@ I used this insight for the AI in [Pest Control](#pest-control) 8 years later.
 [nina]: http://ninasays.so/
 [elisee]: https://elisee.itch.io/
 [crashtroid]: https://soundcloud.com/crashtroid
-[medamaudee]: https://www.artstation.com/kmays
+[kristin]: https://www.artstation.com/kmays
 [lectvs]: https://lectvs.itch.io
 [jose]: https://joespacio.itch.io/
