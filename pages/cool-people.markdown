@@ -47,15 +47,17 @@ I can't vouch for if any of these people are cool in person. But they've inspire
 - [Game Maker's Toolkit](https://www.youtube.com/@GMTK)
 - [Masahiro Sakurai](https://www.youtube.com/@sora_sakurai_en)
 - [Moon Channel](https://www.youtube.com/@moon-channel)
-- [Noclip](https://www.youtube.com/@NoclipCrew)
+- [Noclip Crew](https://www.youtube.com/@NoclipCrew)
 - [New Frame Plus](https://www.youtube.com/@NewFramePlus)
 - [FilmCow](https://www.youtube.com/@filmcow)
 - [Razbuten](https://www.youtube.com/@razbuten)
+- [People Make Games](https://www.youtube.com/@PeopleMakeGames)
 
 ## Podcasts
 
 - [Coffee with Butterscotch](https://www.bscotch.net/podcast/)
 - [Leighton Night with Brian Wecht](https://www.stitcher.com/show/leighton-night-with-brian-wecht)
+- [Humans Who Make Games with Adam Conover](https://podcasts.apple.com/us/podcast/humans-who-make-games-with-adam-conover/id1432764935)
 
 [andrfw]: http://andrfw.com
 [quarkimo]: https://soundcloud.com/quarkimo
