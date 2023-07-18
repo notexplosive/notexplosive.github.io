@@ -4,11 +4,7 @@ title: ":sunglasses: Cool People Zone"
 permalink: /cool-people/
 ---
 
-Welcome to the cool people zone, only cool and chill people below this point. These are people that have inspired me through my life and career. I'm putting them all in a list here partly for posterity and also as a prompt for anyone reading this blog to check these people out!
-
-# People I know
-
-These are all people I know (to some degree) and think are personally cool people.
+Welcome to the cool people zone, only cool and chill people below this point. These are people that have inspired me and/or make cool and interesting stuff that I like and you might like too. I'm putting them all in a list here partly for posterity and also as a prompt for anyone reading this blog to check these people out!
 
 ## Indie Gamedevs
 
@@ -30,12 +26,10 @@ These are all people I know (to some degree) and think are personally cool peopl
 ## Game Artists
 - [Kristin Mays][kristin]
 
+
 ## Non-game Engineers
 - [Jay Bazuzi](https://mastodon.online/@JayBazuzi)
-
-# People I don't know (but think are cool)
-
-I can't vouch for if any of these people are cool in person. But they've inspired me nonetheless.
+- [Evan Bailey](https://linktr.ee/cynicaloptimist)
 
 ## YouTubers
 

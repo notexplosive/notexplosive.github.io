@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making of Pest Control
+title: "Making of: Pest Control"
 date: 2023-07-10
 excerpt: Behind the Scenes on my 2023 game, <i>Pest Control</i>.
 tags: pest-control making-of

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Why are we here?"
+title:  "Introduction"
 date:   2023-07-10
 excerpt: Introduction to my blog, why I'm writing it, and why you might want to read it.
+permalink: /introduction/
 ---
 
 Welcome to my blog! If you're reading this and don't know me personally, you're probably a fan of [my games](http://notexplosive.net/). Which is great news! That's what most of this blog is going to be about!
