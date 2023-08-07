@@ -14,6 +14,7 @@ Welcome to the cool people zone, only cool and chill people below this point. Th
 - [lectvs][lectvs]
 - [Diency][diency]
 - [Xythas][sam]
+- [Kai][kai]
 - [Punkitt](https://punkitt.itch.io/)
 - [Nina Freeman][nina]
 - [Elisée Maurer][elisee]
@@ -64,3 +65,4 @@ Welcome to the cool people zone, only cool and chill people below this point. Th
 [lectvs]: https://lectvs.itch.io
 [diency]: https://diency.itch.io/
 [sam]: https://sam-long.itch.io/
+[kai]: https://kai-bubble.itch.io/
