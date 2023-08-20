@@ -1,1 +1,1 @@
-bundle exec jekyll serve -l -o --force-polling
+bundle exec jekyll serve -l -o --force_polling
