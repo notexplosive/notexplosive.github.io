@@ -8,7 +8,7 @@ permalink: /introduction/
 
 Welcome to my blog! If you're reading this and don't know me personally, you're probably a fan of [my games](http://notexplosive.net/). Which is great news! That's what most of this blog is going to be about!
 
-Anyway. Hi! I'm notexplosive (usually written as NotExplosive because people will misread the former as "note-splosive"). Some people call me "Explosive." Obviously I have a "real" name, and it's not a secret, but I'll be going by handle on this site. You can call me Explosive, or NotExplosive, or not.
+Anyway. Hi! I'm notexplosive (usually written as NotExplosive because people will misread the former as "note-splosive"). Some people call me "Explosive." My real name is Wyatt, but I'll be referring to myself as NotExplosive in most (if not all) future posts.
 
 I make video games! During the day I'm a gameplay engineer at a small Seattle-based studio. On nights and weekends I [do my own thing](http://notexplosive.net). At one point I dreamt of being a full-time indie like ConcernedApe or Toby Fox. But working fulltime in games has disenchanted me from that idea. I would much rather work on a team where I can do the "fun parts" of making a game while someone else runs the actual business. Or, better yet, do all that as my day job and then make the games I really want to make on the side without having to consider commercial viability.
 

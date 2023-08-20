@@ -10,7 +10,7 @@ tags: pest-control making-of
 
 This is a post about my game [_Pest Control_](https://notexplosive.net/pest-control).
 
-If you haven't played _Pest Control_ yet, [you should do that](https://notexplosive.net/pest-control). At time of writing it's only available on Windows, due to the jam rules I'm not allowed to modify the game right now (which includes adding ports). So if you don't have access to a windows PC and I haven't been able to release a port yet. Sorry!
+If you haven't played _Pest Control_ yet, [you should do that](https://notexplosive.net/pest-control). If you need a mac port, contact me at `blog [at] notfruit.net`. I can't make a mac port because I don't have a mac to build on. But if you do, maybe you can make my mac port! Or I can send you instructions on how to build locally.
 
 In this post I'll be sharing what I remember about the development process. I'm writing this post the week the game came out so the memories are still fresh.
 
@@ -221,7 +221,7 @@ Here are the things I want to remember going forward from this jam.
 - Tweens are a very powerful tool. If it sounds like you can do it with Tweens, you probably can.
 - AI is more about systems that coax the agent to go certain places over others, and less about any particular gameplay element
 - All nighters are still bad, but GMTK feels way shorter than it is because of the awkward timezone change.
-- Always playtest before you submit
+- Always playtest with real humans before you submit
 
 [quarkimo]: https://soundcloud.com/quarkimo
 [kristin]: https://www.artstation.com/kmays
