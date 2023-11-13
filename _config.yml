@@ -36,6 +36,12 @@ plugins:
 
 markdown: kramdown
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+rouge:
+  theme: assets/custom-theme.css
+
 minima:
   skin: dark
 
