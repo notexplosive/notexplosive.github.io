@@ -1,8 +1,10 @@
 .highlight .nn {
-  color: rgb(36, 143, 196);
+  color: #008000;
 }
-.highlight .c1 {
-  color: #4ae24a;
+.highlight .nn,
+.highlight .c1,
+.highlight .cm {
+  color: #57cb57;
 }
 
 /*# sourceMappingURL=custom-theme.css.map */
