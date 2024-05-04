@@ -1,11 +1,51 @@
 .highlight {
+    font-family: 'Fira Code', 'Courier New', Courier, monospace;
+
     .nn {
         color: #008000;
     }
 
+    // COMMENTS
     .nn,
     .c1,
     .cm {
-        color: #57cb57;
+        color: #1cd679;
     }
+
+
+
+    // lua: nil
+    .kc,
+    // lua: local
+    .kd {
+        color: #78aaab;
+    }
+
+    // FLOW KEYWORDS
+    // lua: function, if, then, end, return
+    .k {
+        color: #CAE2BC
+    }
+
+    // STANDARD FUNCTIONS / MODULES
+    // lua: setmetatable, math.random, require
+    .nb {
+        color: #FDCA40;
+    }
+
+    // FUNCTION NAME
+    // lua: thing:do() -- only counts if there's a colon
+    // cs: thing()
+    .nf {
+        color: #FFFFC7;
+    }
+
+    // UNREMARKABLE TOKENS
+    .n {
+        color: #d1f6fa
+    }
+}
+
+blockquote {
+    color: #FDCA40
 }
