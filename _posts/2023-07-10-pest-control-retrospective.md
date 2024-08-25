@@ -223,6 +223,6 @@ Here are the things I want to remember going forward from this jam.
 - All nighters are still bad, but GMTK feels way shorter than it is because of the awkward timezone change.
 - Always playtest with real humans before you submit
 
-[quarkimo]: https://soundcloud.com/quarkimo
+[quarkimo]: https://linktr.ee/quarkimo
 [kristin]: https://www.artstation.com/kmays
 [jose]: https://joespacio.itch.io/

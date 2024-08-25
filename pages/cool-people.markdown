@@ -4,7 +4,9 @@ title: ":sunglasses: Cool People Zone"
 permalink: /cool-people/
 ---
 
-Welcome to the cool people zone, only cool and chill people below this point. These are people that have inspired me and/or make cool and interesting stuff that I like and you might like too. I'm putting them all in a list here partly for posterity and also as a prompt for anyone reading this blog to check these people out!
+Welcome to the cool people zone, only cool and chill people below this point. These are people that have inspired me and/or make cool and interesting stuff that I like and you might like too.
+
+You should definitely check out their work!
 
 ## Indie Gamedevs
 
@@ -19,14 +21,14 @@ Welcome to the cool people zone, only cool and chill people below this point. Th
 - [Nina Freeman][nina]
 - [Elisée Maurer][elisee]
 
-## Game Composers
+## Composers
 
 - [Ryan Yoshikami][quarkimo]
 - [Crashtroid][crashtroid]
 
-## Game Artists
+## Artists
 - [Kristin Mays][kristin]
-
+- [isawiich][isawiich]
 
 ## Non-game Engineers
 - [Jay Bazuzi](https://mastodon.online/@JayBazuzi)
@@ -51,11 +53,11 @@ Welcome to the cool people zone, only cool and chill people below this point. Th
 ## Podcasts
 
 - [Coffee with Butterscotch](https://www.bscotch.net/podcast/)
-- [Leighton Night with Brian Wecht](https://www.stitcher.com/show/leighton-night-with-brian-wecht)
 - [Humans Who Make Games with Adam Conover](https://podcasts.apple.com/us/podcast/humans-who-make-games-with-adam-conover/id1432764935)
 
 [andrfw]: http://andrfw.com
-[quarkimo]: https://soundcloud.com/quarkimo
+[quarkimo]: https://linktr.ee/quarkimo
+[isawiich]: https://isawiitch.com
 [ursagames]: https://ursagames.itch.io/
 [jose]: https://joespacio.itch.io/
 [nina]: http://ninasays.so/

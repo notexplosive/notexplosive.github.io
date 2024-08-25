@@ -19,6 +19,32 @@ The games are listed in reverse chronological order, but my remarks often refere
 {% assign linkText = "Download" %}
 {% assign linkTextWeb = "Play in Browser" %}
 
+# 2024
+
+## Architower
+[{{ linkText }}](https://notexplosive.itch.io/architower)
+> Made in 96 hours August 2024 for GMTK Game Jam 2024
+
+Made with [Quarkimo][quarkimo] and [isawiich][isawiich].
+
+## Summoners Incorporeal
+[{{ linkText }}](https://notexplosive.itch.io/summoners-incorporeal)
+> Made in 72 hours April 2024 for Ludum Dare
+
+Made with [Ursagames][ursagames]. The first "real" game made in SokoMaker, and it's not even a Sokoban!
+
+## In The Rig
+[{{ linkText }}](https://notexplosive.itch.io/in-the-rig)
+> Made in 12 hours in February 2024 for Made at the MADE
+
+The first ever game finished in SokoMaker, but it's barely a game.
+
+## For Your Entertainment
+[{{ linkText }}](https://notexplosive.itch.io/ggj2024)
+> Made in January 2024 for Global Game Jam
+
+A Vampire Survivor clone because I didn't like the theme.
+
 # 2023
 ## Pest Control
 [{{ linkText }}](https://notexplosive.itch.io/pest-control)
@@ -52,7 +78,7 @@ This game also uses the same sound effects and music as [Seven Pips](#seven-pips
 
 ## Harvest Golem
 [{{ linkText }}](https://notexplosive.itch.io/ld51)
-> Made in October 2022 for Ludum Dare 51
+> Made in 72 hours October 2022 for Ludum Dare 51
 
 The theme was "Every 10 Seconds" which I think is a pretty bad theme, (it's almost good, "10 Seconds" would be a great theme!). In defiance of the theme, I implemented a mechanic that used the theme in a pretty stilted way. Then I proceeded to otherwise make a game based on a theme that almost won but didn't: "Harvest." Hilariously, "Harvest" did win as the theme for Ludum Dare 52.
 
@@ -152,7 +178,7 @@ In between 2 milestones [Jose Pacio][jose] did a playtest for me over screen-sha
 
 ## Lay Down Your Roots
 [{{ linkText }}](https://notexplosive.itch.io/roots)
-> Made in April 2020 for Ludum Dare 46, remade and re-released September 2020
+> Made in 72 hours April 2020 for Ludum Dare 46, remade and re-released September 2020
 
 [Ryan Yoshikami][quarkimo] and I were a 2 person team on this project. All of the art is procedural so we didn't "need" an artist. 
 
@@ -335,7 +361,7 @@ I used this insight for the AI in [Pest Control](#pest-control) 8 years later.
 
 
 [andrfw]: http://andrfw.com
-[quarkimo]: https://soundcloud.com/quarkimo
+[quarkimo]: https://linktr.ee/quarkimo
 [ursagames]: https://ursagames.itch.io/
 [nina]: http://ninasays.so/
 [elisee]: https://elisee.itch.io/
@@ -343,3 +369,4 @@ I used this insight for the AI in [Pest Control](#pest-control) 8 years later.
 [kristin]: https://www.artstation.com/kmays
 [lectvs]: https://lectvs.itch.io
 [jose]: https://joespacio.itch.io/
+[isawiich]: https://isawiitch.com
