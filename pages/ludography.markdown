@@ -23,32 +23,32 @@ The games are listed in reverse chronological order, but my remarks often refere
 
 ## Architower
 [{{ linkText }}](https://notexplosive.itch.io/architower)
-> Made in 96 hours August 2024 for GMTK Game Jam 2024
+> `[Jam]` Made in 96 hours August 2024 for GMTK Game Jam 2024
 
 Made with [Quarkimo][quarkimo] and [isawiich][isawiich].
 
 ## Summoners Incorporeal
 [{{ linkText }}](https://notexplosive.itch.io/summoners-incorporeal)
-> Made in 72 hours April 2024 for Ludum Dare
+> `[Jam]` Made in 72 hours April 2024 for Ludum Dare
 
 Made with [Ursagames][ursagames]. The first "real" game made in SokoMaker, and it's not even a Sokoban!
 
 ## In The Rig
 [{{ linkText }}](https://notexplosive.itch.io/in-the-rig)
-> Made in 12 hours in February 2024 for Made at the MADE
+> `[Jam]` Made in 12 hours in February 2024 for Made at the MADE
 
 The first ever game finished in SokoMaker, but it's barely a game.
 
 ## For Your Entertainment
 [{{ linkText }}](https://notexplosive.itch.io/ggj2024)
-> Made in January 2024 for Global Game Jam
+> `[Jam]` Made in January 2024 for Global Game Jam
 
 A Vampire Survivor clone because I didn't like the theme.
 
 # 2023
 ## Pest Control
 [{{ linkText }}](https://notexplosive.itch.io/pest-control)
-> Made in 48 hours for GMTK Game Jam 2023
+> `[Jam]` Made in 48 hours for GMTK Game Jam 2023
 
 Composed by [Ryan Yoshikami][quarkimo] and illustrated by 2 artists we met through the GMTK Team Finder app.
 
@@ -60,7 +60,7 @@ So that prompted me to start writing a blog, which prompted me to fill out a "wh
 
 ## Super Pet the Cat
 [{{ linkText }}](https://notexplosive.itch.io/pet-the-cat)
-> Made in 5ish days in February 2023 for Ludwig Game Jam
+> `[Jam]` Made in 5ish days in February 2023 for Ludwig Game Jam
 
 The jam was 10 days long, but I was out of town for the first 5, so I frantically put my game together in 5 days. I think it's pretty OK for what it is, but it got eviscerated in the jam ratings.
 
@@ -78,7 +78,7 @@ This game also uses the same sound effects and music as [Seven Pips](#seven-pips
 
 ## Harvest Golem
 [{{ linkText }}](https://notexplosive.itch.io/ld51)
-> Made in 72 hours October 2022 for Ludum Dare 51
+> `[Jam]` Made in 72 hours October 2022 for Ludum Dare 51
 
 The theme was "Every 10 Seconds" which I think is a pretty bad theme, (it's almost good, "10 Seconds" would be a great theme!). In defiance of the theme, I implemented a mechanic that used the theme in a pretty stilted way. Then I proceeded to otherwise make a game based on a theme that almost won but didn't: "Harvest." Hilariously, "Harvest" did win as the theme for Ludum Dare 52.
 
@@ -86,7 +86,7 @@ This was the first game I made with [Crashtroid][crashtroid], who you might reco
 
 ## Seven Pips
 [{{ linkText }}](https://notexplosive.itch.io/dice)
-> Made in 48 hours in July 2022 for GMTK Jam 2022
+> `[Jam]` Made in 48 hours in July 2022 for GMTK Jam 2022
 
 [Ryan Yoshikami][quarkimo] and I thought we could just recreate the magic of [Function Conjunction](#function-conjunction) and [Lay Down Your Roots](#lay-down-your-roots). Just the two of us, no artist. I would make some procedurally generated art and we'd make something compelling and interesting and it'll be great.
 
@@ -94,7 +94,7 @@ It did not turn out that way. Seven Pips is probably my least favorite game, my 
 
 ## Beep 'n' Zap: Barry's Special
 [{{ linkTextWeb }}](https://notexplosive.itch.io/barrys-special)
-> Made in one week in June 2022 for a personal game jam among friends
+> `[Jam]` Made in one week in June 2022 for a personal game jam among friends
 
 My gamedev friend group got together and created an imaginary "franchise," a cast of characters and rough story outline. The concept was a cartoon series that never made it past the pilot phase called "Beep 'n' Zap," a Robot and Wizard duo who go on adventures trying to assemble a Giant Robot.
 
@@ -105,13 +105,13 @@ This was the third jam I had done with this group. It's not a requirement to pub
 
 ## Support Class Simulator
 [{{ linkText }}](https://notexplosive.itch.io/ld50)
-> Made in 72 hours in April 2022 for Ludum Dare 50
+> `[Jam]` Made in 72 hours in April 2022 for Ludum Dare 50
 
 A game based on being a healer in World of Warcraft. I'd been sitting on the idea for this game for a long time and the theme "Delay the inevitable" seemed like a good fit.
 
 ## Duel-ity
 [{{ linkText }}](https://notexplosive.itch.io/duelity)
-> Made in 10 days in January 2022 for the Global Game Jam - PIGSquad Site (virtual)
+> `[Jam]` Made in 10 days in January 2022 for the Global Game Jam - PIGSquad Site (virtual)
 
 This was the first game I made with my friend [andrfw][andrfw].
 
@@ -126,7 +126,7 @@ Also, fun fact: I pronounce it "Du-EL-it-ee" but andrfw pronounces it "DOOL-it-e
 
 ## Expression Compression
 [{{ linkText }}](https://notexplosive.itch.io/expressions)
-> Made in 72 hours in October 2021 for Ludum Dare
+> `[Jam]` Made in 72 hours in October 2021 for Ludum Dare
 
 [Function Conjunction](#function-conjunction)'s less interesting younger brother. Similar to Function Conjunction, I had this game in my head for a while. But unlike Function Conjunction, the execution wasn't nearly as interesting.
 
@@ -134,7 +134,7 @@ Maybe it's the lack of music (or any sound, for that matter), or maybe the idea 
 
 ## Function Conjunction
 [{{ linkText }}](https://notexplosive.itch.io/functions)
-> Made in 48 hours in June 2021 for GMTK Game Jam 2021, also submitted to MonoGameJam3
+> `[Jam]` Made in 48 hours in June 2021 for GMTK Game Jam 2021, also submitted to MonoGameJam3
 
 One of my personal favorites! Another game featuring [Ryan Yoshikami][quarkimo]'s sound design talent. I had been sitting on the idea for this game in my head for a long time but never actually put it together. I envisioned a square plane where you are shown discrete points (stars?), and you need to build a curve that intersects all of those stars by composing mathematical functions together.
 
@@ -146,13 +146,13 @@ I also think it presents mathematical concepts that you learned in school in a v
 
 ## Oculus Leviathan
 [{{ linkText }}](https://notexplosive.itch.io/oculus)
-> Made in 72 hours in April 2021 for Ludum Dare 48
+> `[Jam]` Made in 72 hours in April 2021 for Ludum Dare 48
 
 It's a "fishing game" with some cool procedurally generated art. It's rare these days that I participate in a game jam completely alone and this was one of those times.
 
 ## First Unheard Message
 [{{ linkTextWeb }}](https://ursagames.itch.io/first-unheard-message)
-> Made in 48 hours for Global Game Jam 2021 - Seattle Indies Site (virtual)
+> `[Jam]` Made in 48 hours for Global Game Jam 2021 - Seattle Indies Site (virtual)
 
 Since [Ursagames][ursagames] and I had such a successful [2020 GGJ](#ship-it), we decided to give it another go! Not quite as spectacular this time around but it was still fun to work with him.
 
@@ -160,13 +160,13 @@ Since [Ursagames][ursagames] and I had such a successful [2020 GGJ](#ship-it), w
 
 ## Three in a Rogue: Classic
 [{{ linkText }}](https://notexplosive.itch.io/three-in-a-rogue-classic)
-> Made in 48 hours in July 2020 for GMTK Game Jam 2020, refined over several months after that.
+> `[Jam]` Made in 48 hours in July 2020 for GMTK Game Jam 2020, refined over several months after that.
 
 I have a lot I want to say about Three in a Rogue, including that "classic" qualifier in the title. But I think that deserves its own post, so let's put a pin in that for now.
 
 ## QWERTY (DVORAK)
 [{{ linkText }}](https://notexplosive.itch.io/qwerty)
-> Made in 3, 6, and 9 hours in July 2020 for Triple TriJam
+> `[Jam]` Made in 3, 6, and 9 hours in July 2020 for Triple TriJam
 
 My original title for this game was "Dario teaches typing."
 
@@ -178,7 +178,7 @@ In between 2 milestones [Jose Pacio][jose] did a playtest for me over screen-sha
 
 ## Lay Down Your Roots
 [{{ linkText }}](https://notexplosive.itch.io/roots)
-> Made in 72 hours April 2020 for Ludum Dare 46, remade and re-released September 2020
+> `[Jam]` Made in 72 hours April 2020 for Ludum Dare 46, remade and re-released September 2020
 
 [Ryan Yoshikami][quarkimo] and I were a 2 person team on this project. All of the art is procedural so we didn't "need" an artist. 
 
@@ -186,7 +186,7 @@ The game performed very well, getting third place overall for the Ludum Dare Jam
 
 ## Ship It!
 [{{ linkText }}](https://notexplosive.itch.io/ship-it)
-> Made in 72 hours in February 2020 for Global Game Jam - Bellevue College Site
+> `[Jam]` Made in 72 hours in February 2020 for Global Game Jam - Bellevue College Site
 
 Made by [Ursagames][ursagames] and me! This was the last in-person game jam I did before the pandemic.
 
@@ -209,7 +209,7 @@ About a day after release I got feedback from my friend [Elisée][elisee] that t
 
 ## In The Rain
 [{{ linkText }}](https://notexplosive.itch.io/in-the-rain)
-> Made in 72 hours in October of 2019 for Ludum Dare 45
+> `[Jam]` Made in 72 hours in October of 2019 for Ludum Dare 45
 
 This game later inspired one of the core mechanics of [Duel-ity](#duel-ity), it's also the origin of [`ouch.ogg`](https://github.com/notexplosive/blips/raw/main/ouch.ogg) and [`blem.ogg`](https://github.com/notexplosive/blips/raw/main/blem.ogg) (which are also both in Duel-ity!).
 
@@ -219,19 +219,19 @@ This game did surprisingly well in the jam, making top 100 overall. I didn't hav
 
 ## Welcome to the 10 Minute Power Hour
 [{{ linkText }}](https://notexplosive.itch.io/10mph)
-> Made in 7 days in July 2019 for the Game Grumps Game Jam
+> `[Jam]` Made in 7 days in July 2019 for the Game Grumps Game Jam
 
 I'll have more to say about this in a later blog post.
 
 ## Dragon Bossfight
 [{{ linkText }}](https://notexplosive.itch.io/dragon-bossfight)
-> Made in a week-ish in July 2019 for Tasting Room Jam and Butterscotch ShenaniJam 2019.
+> `[Jam]` Made in a week-ish in July 2019 for Tasting Room Jam and Butterscotch ShenaniJam 2019.
 
 A pretty low effort submission, I had half an idea and a quarter the energy to make a game.
 
 ## I Started 2 Hours Before The Deadline (aka: "Big Ambitions")
 [{{ linkText }}](https://notexplosive.itch.io/big-ambitions)
-> Made (in 2 hours) for WWU Game Jam Spring '19, May 2019
+> `[Jam]` Made (in 2 hours) for WWU Game Jam Spring '19, May 2019
 
 I wasn't planning on participating in this jam, but 2 hours before submission time I had a fun idea for a joke game that would only really "make sense" in the context of a school game jam.
 
@@ -247,13 +247,13 @@ So, a college auditorium of game jammers are a captive audience and on the proje
 
 ## Not Who They Say They Are
 [{{ linkText }}](https://notexplosive.itch.io/not-who-they-say-they-are)
-> Made in 36 hours in February 2019 for WWU Game Jam 11
+> `[Jam]` Made in 36 hours in February 2019 for WWU Game Jam 11
 
 An attempt to make SpyParty a couch co-op game. I use controller vibrations to send secret information to players and I still think that was really clever. I'm not sure if anyone outside of my immediate friend group has played this game. But it's a fun game to pull out when I have company over.
 
 ## Gale: First Draft
 [{{ linkText }}](https://notexplosive.itch.io/gale)
-> Made in 2 days in February 2019 for LÖVE Jam 2019, then polished for 5 days and submitted to Tasting Room Jam
+> `[Jam]` Made in 2 days in February 2019 for LÖVE Jam 2019, then polished for 5 days and submitted to Tasting Room Jam
 
 This game was made originally for a 7-day jam hosted by [Nina Freeman][nina]. But it just so happened that the first 2 days of that jam was the LÖVE Jam, a jam for my preferred game framework at the time. So I quickly threw together a prototype for LÖVE Jam and then followed it up with a more refined version for Tasting Room.
 
@@ -264,7 +264,9 @@ I made _Gale_ and [Lens](#lens) around the same time. Gale was initially inspire
 
 ## JUMP
 [{{ linkText }}](https://notexplosive.itch.io/march-3-meditation)
-> Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
+> `[Jam]*` Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
+
+`*` Not technically a game jam, but it was made under an assigned time constraint.
 
 I was invited to participate in Rami Ismail's [Meditations](https://meditations.games/). The game was supposed to be made in about 6 hours and would be "aired" on a date of my choosing, as long as the date wasn't already taken. Making a game in 6 hours is a really tight scope, I would want to make something really simple but still feels like a game, it made me think of [{{ jumpRopeTitle }}](#{{ jumpRopeTitle | slugify }}), a game that I made solely because of its tiny scope.
 
@@ -272,19 +274,19 @@ So I checked itch.io to see when I made _Jump Rope Game_ and I found out that it
 
 ## Lens
 [{{ linkText }}](https://notexplosive.itch.io/lens)
-> Made in November 2018 for GitHub Game Off
+> `[Jam]` Made in November 2018 for GitHub Game Off
 
 I sometimes imagine a sequel to this game and (in my head) it's the best game I've ever made. That immense pressure makes it impossible to ever actually make it. I have attempted to make _Lens 2_ at least 4 times (depends on what counts as an "attempt"). I plan on making a longer blog post about this topic.
 
 ## Castle Rapsalot
 [{{ linkText }}](https://notexplosive.itch.io/castle-raps)
-> Made in 36 hours in October 2018 for WWU Game Jam Fall '18
+> `[Jam]` Made in 36 hours in October 2018 for WWU Game Jam Fall '18
 
 Mechanically this is a spiritual successor to [Speed Date Shuffle](#speed-date-shuffle), but I think SDS is better.
 
 ## Wine Circus
 [{{ linkTextWeb }}](https://notexplosive.itch.io/winejam)
-> Made in 7 days in July of 2018 (intermittently) for Wine Jam
+> `[Jam]` Made in 7 days in July of 2018 (intermittently) for Wine Jam
 
 I made this game during the week I graduated college. I remember putting the finishing touches (at least, finishing-enough touches) on this game at my parents house with a just barely-unpacked desktop computer, sitting on the floor.
 
@@ -297,7 +299,7 @@ Also: I didn't realize it at the time, but this was the last game I made in [Sup
 
 ## Speed Date Shuffle
 [{{ linkTextWeb }}](https://notexplosive.itch.io/speed-date-shuffle)
-> Made in 72 hours in December 2017 for Ludum Dare 40
+> `[Jam]` Made in 72 hours in December 2017 for Ludum Dare 40
 
 A spiritual sequel to [Puppertrator](#puppertrator). Made with the same team [Kristin Mays][kristin] and Cadillac Loops. Where Puppertrator had pretty generic point-and-click gameplay, Speed Date Shuffle tries to do something different.
 
@@ -305,7 +307,7 @@ A spiritual sequel to [Puppertrator](#puppertrator). Made with the same team [Kr
 
 ## Puppertrator
 [{{ linkTextWeb }}](https://notexplosive.itch.io/puppertrator)
-> Made in 72 hours in December 2016 for Ludum Dare 37
+> `[Jam]` Made in 72 hours in December 2016 for Ludum Dare 37
 
 Another game with [Kristin Mays][kristin]'s incredible art. This was also the first game I ever made that didn't feature pixel art and it's so much better for it!
 
@@ -323,7 +325,7 @@ If [Bug Samurai](#bug-samurai) is my first "fun" game, Puppertrator is my first 
 
 ## Bug Samurai
 [{{ linkTextWeb }}](https://notexplosive.itch.io/bug-samurai)
-> Made in 36 hours in May 2016 for WWU Game Jam 
+> `[Jam]` Made in 36 hours in May 2016 for WWU Game Jam 
 
 My first "fun" game!
 
@@ -347,7 +349,7 @@ If you wanna see "part 2" of this jump rope saga, check out [JUMP](#jump).
 
 ## Krill or Be Krilled
 [{{ linkTextWeb }}](https://notexplosive.itch.io/ld34)
-> Made in 72 hours in 2015 for Ludum Dare 34
+> `[Jam]` Made in 72 hours in 2015 for Ludum Dare 34
 
 The first (canonical) NotExplosive game, with art by [Kristin Mays][kristin]. 
 
