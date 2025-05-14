@@ -19,7 +19,23 @@ The games are listed in reverse chronological order, but my remarks often refere
 {% assign linkText = "Download" %}
 {% assign linkTextWeb = "Play in Browser" %}
 
+# 2025
+
+## Explorem Ipsum: Catacombs of Time
+[{{ linkText }}](https://notexplosive.itch.io/ld57)
+> `[Jam]` Made in 72 hours April 2025 for Ludum Dare 57
+
+## Transmission Rendition
+[{{ linkText }}](https://notexplosive.itch.io/transmission-rendition)
+> `[Jam]` Made in 1 week February 2025 for Big Mode Game Jam
+
 # 2024
+
+## fishbone
+[{{ linkText }}](https://notexplosive.itch.io/ld56)
+> `[Jam]` Made in 72 hours October 2024 for Ludum Dare 56
+
+Made entirely by myself. All of the sound effects in the game were generated with FuncSynth, a tool I also made.
 
 ## Architower
 [{{ linkText }}](https://notexplosive.itch.io/architower)
@@ -264,7 +280,7 @@ I made _Gale_ and [Lens](#lens) around the same time. Gale was initially inspire
 
 ## JUMP
 [{{ linkText }}](https://notexplosive.itch.io/march-3-meditation)
-> `[Jam]*` Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
+> `[Jam]` (kinda) Made in 6 hours in 2018, published in 2019 as part of [Meditations](https://meditations.games/)
 
 `*` Not technically a game jam, but it was made under an assigned time constraint.
 
